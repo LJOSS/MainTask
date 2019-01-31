@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">MainTask</string>
+    <string name="pass">Enter pass</string>
+    <string name="login">Enter login</string>
+    <string name="sign_in">Sign in</string>
+    <string name="remember_me">Remember me</string>
 </resources>
